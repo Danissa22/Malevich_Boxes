@@ -36,7 +36,7 @@
 #box4 {
         width: 30px;
         height: 30px;
-        background-color: dimgrey;
+        background-color: grey;
         position: relative;
         top: 100px;
         -ms-transform: rotate(-20deg); /* IE 9 */
