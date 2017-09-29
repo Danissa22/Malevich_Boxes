@@ -1,0 +1,45 @@
+ #box1 {
+        width: 700px;
+        height: 700px;
+        background-color: slategray;
+        position: center;
+        left: 0%;
+        top: -0%;
+        -ms-transform: rotate(5deg); /* IE 9 */
+        -webkit-transform: rotate(10deg); /* Chrome, Safari, Opera */
+        transform: rotate(0deg);
+    }  
+    
+  #box2 {
+        width: 400px;
+        height: 400px;
+        background-color: #1e1f21;
+        position:relative;
+        left: 100%;
+        top: -60%;
+        -ms-transform: rotate(-84deg); /* IE 9 */
+        -webkit-transform: rotate(-77deg); /* Chrome, Safari, Opera */
+        transform: rotate(deg);
+    }
+
+#box3 {
+        width: 200px;
+        height: 200px;
+        background-color: gray;
+        position: relative;
+        top: -800px;
+        right: -15%;
+        -ms-transform: rotate(3deg); /* IE 9 */
+        -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+        transform: rotate(0deg);
+    } 
+#box4{
+    width:100px;
+    height:100px;
+    background-color:lightgray;
+    position:relative;
+    top:-1000px;
+    left:300px;
+    transform:rotate(0deg);
+    
+}
